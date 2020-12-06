@@ -1,0 +1,11 @@
+Develop an application for an accommodation booking system for a Holiday Resort.  The system must handle bookings for both the Hotel rooms and Self Catering Cottages.  All bookings will require a clientName, a bookingReference, a startDate and a duration in nights. 
+
+Bookings for the Hotel Rooms will also then have a roomNumber and whether or not breakfast is included.   
+
+Bookings for the Cottages will have an address and a keyCollectionPoint which is represented by a single letter. 
+
+The application should enable you to create bookings of type Hotel or Cottage with all of the necessary info and then calculate the total cost of the booking based on the following: 
+
+Hotel rooms cost 130 euro per night and breakfast is charged at 10euro extra per night. 
+
+Cottages cost 60 euro per night with an additional once of charge of 50 euro for electricity. 
